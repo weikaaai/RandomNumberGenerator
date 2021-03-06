@@ -6,14 +6,14 @@ This project is made with Android Studio and it's a simple random number generat
 
 #### Demo
 
-![01](https://raw.githubusercontent.com/weikaaai/RandomNumberGenerator/master/github_imgs/01.png =500x)
+<img src="github_imgs/01.png" width="500" />
 
-![02](https://raw.githubusercontent.com/weikaaai/RandomNumberGenerator/master/github_imgs/02.png =500x)
+<img src="github_imgs/02.png" width="500" />
 
-![03](https://raw.githubusercontent.com/weikaaai/RandomNumberGenerator/master/github_imgs/03.png =500x)
+<img src="github_imgs/03.png" width="500" />
 
-![04](https://raw.githubusercontent.com/weikaaai/RandomNumberGenerator/master/github_imgs/04.png =500x)
+<img src="github_imgs/04.png" width="500" />
 
-![05](https://raw.githubusercontent.com/weikaaai/RandomNumberGenerator/master/github_imgs/05.png =500x)
+<img src="github_imgs/05.png" width="500" />
 
-![06](https://raw.githubusercontent.com/weikaaai/RandomNumberGenerator/master/github_imgs/06.png =500x)
+<img src="github_imgs/06.png" width="500" />
