@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random Number Generator</string>
+    <string name="hint">enter a positive number</string>
+    <string name="textview">Welcome to Random Number generator</string>
+    <string name="textview2">This app will generate a random number from 1 to the input number.</string>
+    <string name="button">GENERATE</string>
+    <string name="textview3" />
+</resources>
